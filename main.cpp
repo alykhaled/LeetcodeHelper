@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //Example of the input : [1,7,0,7,-8,null,null]
     string in;
     cin >> in;
 
