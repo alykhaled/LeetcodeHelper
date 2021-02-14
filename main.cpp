@@ -60,6 +60,6 @@ int main()
             l++;
             counter = 0;
         }
-    }    
+    }
 
 }
